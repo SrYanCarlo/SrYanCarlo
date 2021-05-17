@@ -1,6 +1,7 @@
 # Hi, I’m Yan Carlo, a web and mobile developer
 
 # FAQ about me
+- Where do you live? In Foz do Iguaçu, Paraná, Brasil
 - In what are you interested? In web and mobile development
 - What is your programming skill level? Beginner
 - What you currently learning? Javascript and React
