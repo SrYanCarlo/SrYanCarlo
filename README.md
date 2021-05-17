@@ -7,3 +7,4 @@
 - What you do currently learning? JavaScript and React
 - You are intending to collaborate? Yes, in web projects
 - How do I reach you? Via my email (yancarlodc@gmail.com)
+![image](https://user-images.githubusercontent.com/40778394/118545407-ed24fb80-b72c-11eb-9ac9-c7af7d4981cb.png)
