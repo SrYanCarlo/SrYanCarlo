@@ -6,7 +6,7 @@
 - 🤔 In what are you interested? In web and mobile development, and possibly a remote internship
 - 📚 What you do currently learning? JavaScript and React
 - 🎓 What is your programming skill level? Beginner
-- 🤝 You are intending to collaborate? Yes, in web projects
+- 🤝 Are you intending to collaborate? Yes, in web projects
 - ✉️ How do I reach you? Via my email (yancarlodc@gmail.com)
 
 
