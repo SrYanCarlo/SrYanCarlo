@@ -1,5 +1,5 @@
 # Hi, I’m Yan Carlo, a web and mobile developer 💻📱
-![image](https://user-images.githubusercontent.com/40778394/118539312-a8e22d00-b725-11eb-9a48-4d76585fa887.png)
+![banner](https://user-images.githubusercontent.com/40778394/119741630-7db1b900-be5c-11eb-9f4a-28b21f10a695.jpg)
 # FAQ about me
 - 📍 Where do you live? In Foz do Iguaçu, Paraná, Brasil
 - 🗣 What language do you know? Portuguese and English
