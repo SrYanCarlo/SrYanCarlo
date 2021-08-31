@@ -1,4 +1,4 @@
-# Hi, I’m Yan Carlo, a web and mobile developer 💻📱
+# Hi, I’m Yan Carlo, a web and mobile developer! 💻📱
 ![banner](https://user-images.githubusercontent.com/40778394/119741630-7db1b900-be5c-11eb-9f4a-28b21f10a695.jpg)
 # FAQ about me
 - 📍 Where do you live? In Foz do Iguaçu, Paraná, Brasil
