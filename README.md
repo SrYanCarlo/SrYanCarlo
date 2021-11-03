@@ -4,7 +4,7 @@
 - 📍 Where do you live? In Foz do Iguaçu, Paraná, Brasil
 - 🗣 What language do you know? Portuguese and English
 - 💼 Whats is your current Job? Military of Brazilian Army
-- 🤔 In what are you interested? In web and mobile development, and possibly a remote internship
+- 🤔 In what are you interested? In web and mobile development, and a remote internship
 - 📚 What you do currently learning? JavaScript and React
 - 🎓 What is your programming skill level? Beginner
 - 🤝 Are you intending to collaborate? Yes, in web projects
