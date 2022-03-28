@@ -1,7 +1,7 @@
 # Hi, I’m Yan Carlo, a web and mobile student! 💻📱
 ![banner](https://user-images.githubusercontent.com/40778394/131587292-dfe66689-e1c4-47e4-9c21-ec007faad515.png)
 # FAQ about me
-- 📍 Where do you live? In Foz do Iguaçu, Paraná, Brasil
+- 📍 Where do you live? In Cascavel, Paraná, Brasil
 - 🗣 What language do you know? Portuguese and English
 - 💼 Whats is your current Job? Student
 - 🤔 In what are you interested? In web and mobile development, and a remote job
