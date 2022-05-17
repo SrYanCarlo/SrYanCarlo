@@ -2,13 +2,13 @@
 ![banner](https://user-images.githubusercontent.com/40778394/131587292-dfe66689-e1c4-47e4-9c21-ec007faad515.png)
 # FAQ about me
 - 📍 Where do you live? In Cascavel, Paraná, Brasil
-- 🗣 What language do you know? Portuguese and English
+- 🗣 What language do you speak? Portuguese and English
 - 💼 Whats is your current Job? Student
-- 🤔 In what are you interested? In web and mobile development, and a remote job
-- 📚 What you do currently learning? JavaScript and React
+- 🤔 In what are you interested in? In web and mobile development, and a remote job
+- 📚 What are you do currently learning? JavaScript and React
 - 🎓 What is your programming skill level? Beginner
 - 🤝 Are you intending to collaborate? Yes, in web projects
-- ✉️ How do I reach you? Through my social medias below!
+- ✉️ How do I reach you? Through my social medias down below!
 
  <div>
   <a href="https://github.com/SrYanCarlo">
