@@ -1,11 +1,12 @@
 # Hi, I’m Yan Carlo, a web and mobile student! 💻📱
 ![Kenzie_Retrowave](https://user-images.githubusercontent.com/40778394/185477113-6e2fce00-35ac-46e4-8827-33b30c1ee332.png)
 # FAQ about me
-- 📍 Where do you live? In Cascavel, Paraná, Brasil
-- 🗣 What language do you speak? Portuguese and English
-- 💼 Whats is your current Job? Student
-- 🤔 In what are you interested in? In web and mobile development with React
-- ✉️ How do I reach you? Through my social medias down below!
+I'm Yan Carlo, a Front-end developer passionate about solving problems.
+
+🔭 I am currently working with typescript development with stack based on react
+🌱 Always studying, and improving my knowledge more and more
+💬 Ask me about: tech, DnD, history.
+⚡ Technologies: React, Typescript
 
  <div>
   <a href="https://github.com/SrYanCarlo">
