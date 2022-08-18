@@ -3,10 +3,10 @@
 # FAQ about me
 I'm Yan Carlo, a Front-end developer passionate about solving problems.
 
-🔭 I am currently working with typescript development with stack based on react
-🌱 Always studying, and improving my knowledge more and more
-💬 Ask me about: tech, DnD, history.
-⚡ Technologies: React, Typescript
+- 🔭 I am currently working with typescript development with stack based on react
+- 🌱 Always studying, and improving my knowledge more and more
+- 💬 Ask me about: tech, DnD, history.
+- ⚡ Technologies: React, Typescript
 
  <div>
   <a href="https://github.com/SrYanCarlo">
