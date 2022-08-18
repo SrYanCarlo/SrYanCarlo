@@ -1,5 +1,5 @@
 # Hi, I’m Yan Carlo, a web and mobile student! 💻📱
-![banner](https://user-images.githubusercontent.com/40778394/131587292-dfe66689-e1c4-47e4-9c21-ec007faad515.png)
+![Kenzie_Retrowave](https://user-images.githubusercontent.com/40778394/185477113-6e2fce00-35ac-46e4-8827-33b30c1ee332.png)
 # FAQ about me
 - 📍 Where do you live? In Cascavel, Paraná, Brasil
 - 🗣 What language do you speak? Portuguese and English
