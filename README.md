@@ -3,9 +3,11 @@
 # Sobre mim
 Um dev apaixonado por resolver problemas e criar interfaces pixel perfect!
 
-- 🔭 Atualmente estou utilizando NextJS/React com Typescript
+- 🔭 Atualmente estou atuando como desenvolvimento Front-end
 - 🌱 Sempre estudando e buscando as melhores práticas do mercado
-- 💬 Pergunte me sobre: tecnologia, RPG de mesa, História
+- 📘 Estou estudando desenvolvimento Full-stack na Kenzie Academy Brasil
+- 💼 Fui militar do Exército Brasileiro por dois anos
+- 💬 Pergunte me sobre: tecnologia, RPG de mesa, história
 - ⚡ Tecnologias: NextJS, React, Typescript
 
  <div>
