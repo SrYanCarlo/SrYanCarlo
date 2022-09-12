@@ -1,12 +1,12 @@
-# Hi, I’m Yan Carlo, a Front-end Developer! 💻
+# Olá, meu nome é Yan Carlo, e sou um desenvolvedor Front-end! 💻
 ![Kenzie_Retrowave](https://user-images.githubusercontent.com/40778394/185477113-6e2fce00-35ac-46e4-8827-33b30c1ee332.png)
-# FAQ about me
-I'm Yan Carlo, a Front-end developer passionate about solving problems.
+# Sobre mim
+Um dev apaixonado por resolver problemas e criar interfaces pixel perfect!
 
-- 🔭 I am currently working with typescript development with stack based on react
-- 🌱 Always studying, and improving my knowledge more and more
-- 💬 Ask me about: tech, DnD, history.
-- ⚡ Technologies: NextJS, React, Typescript
+- 🔭 Atualmente estou utilizando NextJS/React com Typescript
+- 🌱 Sempre estudando e buscando as melhores práticas do mercado
+- 💬 Pergunte me sobre: tecnologia, RPG de mesa, História
+- ⚡ Tecnologias: NextJS, React, Typescript
 
  <div>
   <a href="https://github.com/SrYanCarlo">
