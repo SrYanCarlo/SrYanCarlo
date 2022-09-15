@@ -3,7 +3,7 @@
 # Sobre mim
 Um dev apaixonado por resolver problemas e criar interfaces pixel perfect!
 
-- 🔭 Atualmente estou atuando como desenvolvimento Front-end
+- 🔭 Atualmente estou atuando com desenvolvimento Front-end
 - 🌱 Sempre estudando e buscando as melhores práticas do mercado
 - 📘 Estou estudando desenvolvimento Full-stack na Kenzie Academy Brasil
 - 💼 Fui militar do Exército Brasileiro por dois anos
