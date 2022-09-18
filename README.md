@@ -32,5 +32,5 @@ Um dev apaixonado por resolver problemas e criar interfaces pixel perfect!
   <a href="https://instagram.com/yancarlodc" target='_blank' rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/yan-carlo-315287161" target='_blank' rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5545998110952" target='_blank' rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href = "mailto:yancarlodc@gmail.com" target='_blank' rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:yancarlodc@gmail.com" target='_blank' rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
