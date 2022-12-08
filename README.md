@@ -3,12 +3,12 @@
 # Sobre mim
 Um dev apaixonado por resolver problemas e criar interfaces pixel perfect!
 
-- 🔭 Atualmente estou atuando com desenvolvimento Front-end
+- 🔭 Atualmente estou atuando com desenvolvimento Full-stack
 - 🌱 Sempre estudando e buscando as melhores práticas do mercado
 - 📘 Estou estudando desenvolvimento Full-stack na Kenzie Academy Brasil
 - 💼 Fui militar do Exército Brasileiro por dois anos
 - 💬 Pergunte me sobre: tecnologia, RPG de mesa, história
-- ⚡ Tecnologias: NextJS, React, Typescript
+- ⚡ Tecnologias: NextJS, React, NestJS, Express, Typescript, Prisma, Docker
 
  <div>
   <a href="https://github.com/SrYanCarlo">
